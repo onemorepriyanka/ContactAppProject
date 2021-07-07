@@ -1,0 +1,11 @@
+export const CREATE_CONTACT = 'CREATE_CONTACT';
+export const GET_CONTACT = 'GET_CONTACT';
+export const UPDATE_CONTACT = 'UPDATE_CONTACT';
+export const DELETE_CONTACT = 'DELETE_CONTACT';
+export const VIEW_CONTACT = 'VIEW_CONTACT';
+export const FIRST_NAME_ERROR = 'Please enter a valid First Name';
+export const LAST_NAME_ERROR = 'Please enter a valid Last Name';
+export const EMAIL_ERROR = 'Please enter a valid Email ID';
+export const PHONE_NUMBER_ERROR = 'Please enter a valid Phone Number';
+export const CONTACT_ADDED = 'Contact has been added!';
+export const DELETE_POPUP = 'Are you sure, you want yo delete?';
